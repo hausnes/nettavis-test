@@ -1,7 +1,7 @@
 {
   "name": "nettavis-test",
   "engines": {
-    "node": "18.x.x"
+    "node": "20.x.x"
   },
   "version": "1.0.0",
   "description": "",
