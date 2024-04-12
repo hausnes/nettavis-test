@@ -1,6 +1,8 @@
 {
   "name": "nettavis-test",
-  "engines": {"node": "20.x.x"},
+  "engines": {
+    "node": "20.x.x"
+  },
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
